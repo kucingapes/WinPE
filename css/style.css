@@ -54,7 +54,7 @@ body {
 }
 .content p,
 .sidebar p{
-  font-family: "lato";
+  font-family: Lato;
 }
 .sidebar {
   padding: 20px;
